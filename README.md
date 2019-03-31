@@ -1,2 +1,2 @@
 # micronaut_tutorial
-Testing the (https://micronaut.io/)[micronaut] framework
+Testing the [micronaut](https://micronaut.io/) framework
